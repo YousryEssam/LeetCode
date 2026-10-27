@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LeetCode.Playground/1.0.0": {
+        "dependencies": {
+          "LeetCode.Solutions": "1.0.0"
+        },
+        "runtime": {
+          "LeetCode.Playground.dll": {}
+        }
+      },
+      "LeetCode.Solutions/1.0.0": {
+        "runtime": {
+          "LeetCode.Solutions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.Playground/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LeetCode.Solutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
